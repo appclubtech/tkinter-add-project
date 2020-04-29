@@ -6,7 +6,7 @@ Using CLI `git clone https://github.com/appclubtech/tkinter-add-project.git`
 
 ### OR
 
-Download and unzip the folder and open it in your favorite folder
+Download and unzip the folder and open it in your favorite editor
 
 ## Contributions
 
